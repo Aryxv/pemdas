@@ -1,0 +1,17 @@
+hari = "rabu"
+
+match hari :
+ case "senin":
+ print ("hari imi adalah mata kuliah pemograman basis data")
+ case "selasa":
+ print ("hari ini saya menghadapi 3 matkul")a
+ case "rabu"
+ print ("hari rab hari pemograman dasar")
+ case ("kamis")
+ print ("hari kamis mata kuliah pemograman web")
+ case ("jumat")
+ print ("hari jumat hanya saatu matkul")
+ case ("sabtu")
+ print ("hari sabtu praktikum PBD")
+ case_:
+ print ("hari minggu hari hari tidur")
